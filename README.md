@@ -6,7 +6,10 @@
 * Apache Tomcat v8.5
 * Oracle v11.2.0.1.0
 
-### Page routing path   
+### ✉️ 프로젝트 한 줄 소개  
+JAVA와 JDBC 모델을 이용하여 농촌지역일손교류프로젝트 정보와   
+귀농, 귀촌자들이 받을 수 있는 교육 정보를 제공하는 서비스 입니다.
+
 ### Commit Message Convention   
 
 ```
