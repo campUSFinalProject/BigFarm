@@ -1,13 +1,9 @@
 # 👨‍🌾 BigFarm 
 
 ![1](https://user-images.githubusercontent.com/52521457/200516846-c6ed2955-a7ba-455e-a808-8b74ce4931ec.jpg)   
-[교육사업정보제공]
 ![2](https://user-images.githubusercontent.com/52521457/200516026-40a44cb3-b67b-4a92-b4df-0f67441732a5.jpg)   
-[일손교류프로젝트 사용자 신청 View]
 ![3](https://user-images.githubusercontent.com/52521457/200516074-03030c5c-a26d-4749-8ed7-bf7f07370fee.jpg)   
-[일손교류프로젝트 관리자 View]
 ![2](https://user-images.githubusercontent.com/52521457/200517083-f2f5850f-a628-466c-9cc5-ad674790d9b8.jpg)   
-[후기페이지]
 
 ## Development   
 * HTML
