@@ -1,4 +1,8 @@
 # 👨‍🌾 BigFarm 
+
+![2](https://user-images.githubusercontent.com/52521457/200516026-40a44cb3-b67b-4a92-b4df-0f67441732a5.jpg)
+![3](https://user-images.githubusercontent.com/52521457/200516074-03030c5c-a26d-4749-8ed7-bf7f07370fee.jpg)
+
 ## Development   
 * HTML
 * Java v1.8
@@ -21,3 +25,6 @@ Refactor : 코드 리펙토링
 Chore : 기타 작업
 Branch 이름은 기능별로 생성
 ```
+
+### 📚 프로젝트 Notion
+https://www.notion.so/5-JAVA-Project-Big-farm-97a6341ad5f94318a2beddda026db0c8
