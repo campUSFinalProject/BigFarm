@@ -1,9 +1,13 @@
-# 👨‍🌾 BigFarm 
+# 👨‍🌾 BigFarm : 농촌 교육사업/일손교류 정보 제공 서비스
 
-![1](https://user-images.githubusercontent.com/52521457/200516846-c6ed2955-a7ba-455e-a808-8b74ce4931ec.jpg)   
-![2](https://user-images.githubusercontent.com/52521457/200516026-40a44cb3-b67b-4a92-b4df-0f67441732a5.jpg)   
-![3](https://user-images.githubusercontent.com/52521457/200516074-03030c5c-a26d-4749-8ed7-bf7f07370fee.jpg)   
-![2](https://user-images.githubusercontent.com/52521457/200517083-f2f5850f-a628-466c-9cc5-ad674790d9b8.jpg)   
+<center><img src="https://user-images.githubusercontent.com/52521457/200516846-c6ed2955-a7ba-455e-a808-8b74ce4931ec.jpg" width="500" height="300"></center>
+[교육사업 리스트 관리자 페이지]
+<center><img src="https://user-images.githubusercontent.com/52521457/200516026-40a44cb3-b67b-4a92-b4df-0f67441732a5.jpg" width="500" height="300"></center>
+[일손교류 프로젝트 사용자 페이지]
+<center><img src="https://user-images.githubusercontent.com/52521457/200516074-03030c5c-a26d-4749-8ed7-bf7f07370fee.jpg" width="500" height="300"></center>
+[일손교류 프로젝트 관리자 페이지]
+<center><img src="https://user-images.githubusercontent.com/52521457/200517083-f2f5850f-a628-466c-9cc5-ad674790d9b8.jpg" width="500" height="300"></center>
+[후기 페이지]
 
 ## Development   
 * HTML
