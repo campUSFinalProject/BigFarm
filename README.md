@@ -33,4 +33,4 @@ Branch 이름은 기능별로 생성
 ```
 
 ### 📚 프로젝트 Notion
-https://www.notion.so/5-JAVA-Project-Big-farm-97a6341ad5f94318a2beddda026db0c8
+https://overjoyed-thorium-06d.notion.site/5-JAVA-Project-Big-farm-97a6341ad5f94318a2beddda026db0c8
